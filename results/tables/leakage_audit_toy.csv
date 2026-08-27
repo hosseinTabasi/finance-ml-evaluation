@@ -1,0 +1,2 @@
+label,score,future_columns,adjacent_overlap_fraction,median_label_lifetime
+TOY,0.55,x_leak,1.0,30.0
