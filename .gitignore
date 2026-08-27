@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+data/**/*.csv
+data/**/*.parquet
+data/**/*.zip
+data/**/*.pkl
+!data/**/.gitkeep
+*.log
+.python-version

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+type: software
+title: "finmlcv: Leakage-proof evaluation for financial machine learning"
+version: 0.1.0
+date-released: "2026-08-27"
+license: MIT
+authors:
+  - family-names: Tabasi
+    given-names: Hossein
+keywords:
+  - combinatorial purged cross-validation
+  - deflated Sharpe ratio
+  - financial machine learning
+  - embargo
+abstract: >
+  A Python library implementing purged k-fold, combinatorial purged
+  cross-validation, embargo, triple-barrier labeling, a leakage audit,
+  and the deflated Sharpe ratio, together with a toy experiment that
+  contrasts these protocols with naive shuffled KFold.
