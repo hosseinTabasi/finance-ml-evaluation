@@ -1,0 +1,12 @@
+seed: 42
+mode: toy          # toy | full
+n_samples: 1200
+horizon: 10
+n_splits: 5
+n_groups: 6
+n_test_groups: 2
+embargo_grid: [0.0, 0.01, 0.05]
+model: logistic
+n_trials_dsr: 20
+tickers: [SPY, QQQ, BTC-USD]
+periods_per_year: 252.0
